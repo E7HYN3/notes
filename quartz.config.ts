@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "ru-RU",
-    baseUrl: "ethyne.lain.ch",
+    baseUrl: "ethyne.github.io/notes",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
